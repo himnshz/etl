@@ -1,0 +1,8 @@
+id,name,age,email,salary,price,quantity
+1, Alice ,28,alice@email.com,50000,10.5,2
+2,Bob,35,bob@email.com,60000,20.0,
+3,Charlie,-5,charlie@email.com,70000,15.5,5
+4,David,40,invalid-email,-50000,5.0,10
+5,,,,,
+6,Eve,25,eve@email.com,45000,12.25,4
+6,Eve,25,eve@email.com,45000,12.25,4

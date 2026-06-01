@@ -1,0 +1,5 @@
+{
+  "name": "AutoETL: Automated Data Pipeline",
+  "description": "A powerful web-based ETL tool to extract, transform, and load CSV data with automated cleaning, validation, and reporting.",
+  "requestFramePermissions": []
+}
